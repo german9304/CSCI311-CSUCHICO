@@ -1,0 +1,19 @@
+insert 0012 12
+insert 0013 13
+insert 0005 5
+insert 0007 7
+insert 0068 68
+insert 0007 7
+insert 0058 58
+insert 0058 58
+insert 0058 58
+insert 0058 not58
+insert 0058 58
+insert 0100 100
+insert 0065 65
+print
+find 0058
+delete 0007 7
+delete 0012 12
+delete 0068 68
+print
